@@ -1,0 +1,16 @@
+{
+  "bundle": {
+    "index": {
+      "scripts": [
+        "js/index.js"
+      ],
+      "styles": [
+        "css/index.css"
+      ],
+      "options": {
+        "maps": false,
+        "minCSS": true
+      }
+    }
+  }
+}

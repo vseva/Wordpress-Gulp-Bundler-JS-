@@ -1,0 +1,16 @@
+{
+  "name": "gulp-bundler-boilerplate",
+  "version": "0.0.1",
+  "developer": "Seva Denisov",
+  "url": "sevadenisov.ru",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bundle-assets": "^2.29.0",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-sass": "^4.0.1",
+    "yargs": "^11.0.0"
+  }
+}
